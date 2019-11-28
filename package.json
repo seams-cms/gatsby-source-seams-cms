@@ -1,11 +1,12 @@
 {
   "name": "seams-cms-gatsby-source",
+  "main": "gatsby-node.js",
   "description": "GatsbyJS source plugin for Seams-CMS",
-  "version": "0.0.1",
-  "author": "Joshua Thijssen <jthijssen@seams-cms.com>",
+  "version": "0.0.2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Joshua Thijssen <jthijssen@seams-cms.com>",
   "contributors": [
     "Adam Gegotek <a.gegotek@tekmi.nl>"
   ],

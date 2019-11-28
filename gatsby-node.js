@@ -1,4 +1,4 @@
-var SeamsSdk = require('../seams-cms/seams-cms-sdk');
+var SeamsSdk = require('seams-cms-sdk');
 
 exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }, configOptions) => {
   const { createNode } = actions
