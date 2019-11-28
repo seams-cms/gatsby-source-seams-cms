@@ -2,7 +2,7 @@
   "name": "seams-cms-gatsby-source",
   "main": "gatsby-node.js",
   "description": "GatsbyJS source plugin for Seams-CMS",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "Adam Gegotek <a.gegotek@tekmi.nl>"
   ],
   "dependencies": {
-    "seams-cms-sdk": "0.0.1"
+    "seams-cms-sdk": "^0.0.2"
   },
   "keywords": [
     "seams-cms",
