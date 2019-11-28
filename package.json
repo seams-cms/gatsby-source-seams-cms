@@ -1,0 +1,28 @@
+{
+  "name": "seams-cms-gatsby-source",
+  "description": "GatsbyJS source plugin for Seams-CMS",
+  "version": "0.0.1",
+  "author": "Joshua Thijssen <jthijssen@seams-cms.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    "Adam Gegotek <a.gegotek@tekmi.nl>"
+  ],
+  "dependencies": {
+    "seams-cms-sdk": "0.0.1"
+  },
+  "keywords": [
+    "seams-cms",
+    "gatsbyjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seams-cms/gatsby-source-seams-cms.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seams-cms/gatsby-source-seams-cms/issues"
+  },
+  "homepage": "https://github.com/seams-cms/gatsby-source-seams-cms"
+}
